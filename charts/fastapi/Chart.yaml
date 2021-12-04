@@ -6,6 +6,6 @@ maintainers:
     name: Nathan Segers
 name: fastapi-example
 sources:
-  - https://github.com/nathansegers/2021-2022-mlops-fastapi-nathansegers
+  - https://github.com/JeremyLebon/2021-2022-mlops-fastapi-nathansegers
 version: 1.0.0
 
